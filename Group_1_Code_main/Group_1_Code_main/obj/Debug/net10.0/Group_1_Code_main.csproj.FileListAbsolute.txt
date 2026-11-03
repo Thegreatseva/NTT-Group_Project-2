@@ -1,0 +1,15 @@
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\bin\Debug\net10.0\Group_1_Code_main.exe
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\bin\Debug\net10.0\Group_1_Code_main.deps.json
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\bin\Debug\net10.0\Group_1_Code_main.runtimeconfig.json
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\bin\Debug\net10.0\Group_1_Code_main.dll
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\bin\Debug\net10.0\Group_1_Code_main.pdb
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.AssemblyInfoInputs.cache
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.AssemblyInfo.cs
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.csproj.CoreCompileInputs.cache
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.dll
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\refint\Group_1_Code_main.dll
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.pdb
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_Code_main.genruntimeconfig.cache
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\ref\Group_1_Code_main.dll
+C:\Users\seva\Dev_Projects\Group_1_Code_main\Group_1_Code_main\obj\Debug\net10.0\Group_1_.BAE607B3.Up2Date
