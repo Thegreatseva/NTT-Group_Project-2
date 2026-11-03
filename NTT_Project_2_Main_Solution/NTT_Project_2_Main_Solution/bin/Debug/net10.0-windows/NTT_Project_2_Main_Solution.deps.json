@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NTT_Project_2_Main_Solution/1.0.0": {
+        "runtime": {
+          "NTT_Project_2_Main_Solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NTT_Project_2_Main_Solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\bin\Debug\net10.0-windows\NTT_Project_2_Main_Solution.exe
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\bin\Debug\net10.0-windows\NTT_Project_2_Main_Solution.deps.json
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\bin\Debug\net10.0-windows\NTT_Project_2_Main_Solution.runtimeconfig.json
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\bin\Debug\net10.0-windows\NTT_Project_2_Main_Solution.dll
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\bin\Debug\net10.0-windows\NTT_Project_2_Main_Solution.pdb
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.AssemblyInfoInputs.cache
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.AssemblyInfo.cs
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.csproj.CoreCompileInputs.cache
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.dll
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\refint\NTT_Project_2_Main_Solution.dll
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.pdb
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Project_2_Main_Solution.genruntimeconfig.cache
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\ref\NTT_Project_2_Main_Solution.dll
+C:\Users\seva\Dev_Projects\NTT_Project_2_Main_Solution\NTT_Project_2_Main_Solution\obj\Debug\net10.0-windows\NTT_Proj.00A12B45.Up2Date
